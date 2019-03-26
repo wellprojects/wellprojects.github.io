@@ -827,7 +827,7 @@ blockquote {
 }
 #menu-a .link[aria-expanded="true"],
 #menu-a .dropdown-item[aria-expanded="true"] {
-  color: #2c3e50!important;
+  color: #ffc80a!important;
 }
 #team1-i B {
   font-size: 48px;
