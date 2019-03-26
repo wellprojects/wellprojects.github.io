@@ -299,7 +299,9 @@
             "video": {
               "active": true,
               "class": "mbr-embedded-video",
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://www.youtube.com/watch?v=8Z1eMy2FoX4",
+              "autoplay": false,
+              "loop": false
             }
           },
           "text": "NUESTRO COLEGIO (VIDEO INTERACTIVO)",
